@@ -1,2 +1,6 @@
 *.log
 *.env
+/bin
+acces.log
+*.err
+*.tmp
