@@ -3,3 +3,4 @@
 acces.log
 *.err
 *.tmp
+.env
